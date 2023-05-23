@@ -314,7 +314,7 @@ export const ChatMessage = ({ chatflowid }) => {
                                                         {/* Display the correct icon depending on the message type */}
                                                         {message.type === 'apiMessage' ? (
                                                             <img
-                                                                src='https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png'
+                                                                src='https://raw.githubusercontent.com/maglionejm/Flowise/main/images/bcg_logo.png'
                                                                 alt='AI'
                                                                 width='30'
                                                                 height='30'
